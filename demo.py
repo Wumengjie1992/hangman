@@ -1,6 +1,5 @@
 #coding:utf-8
 import random
-
 f=open('a.txt','r+')
 k=1000
 for num in range(1000):
